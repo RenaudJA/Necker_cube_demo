@@ -1,5 +1,7 @@
-# The Necker Cube Experiment
-PsychoPy version of the Necker Cube task as used in Leclercq et al. Scientific Reports, 2024 (https://doi.org/10.1038/s41598-024-59434-4). Tested on PsychoPy 2023.2.3
+## About the Necker Cube experiment
+PsychoPy version of the Necker Cube task as used in Leclercq et al. Scientific Reports, 2024. Tested on PsychoPy 2023.2.3
+
+[![DOI:10.1038/s41598-024-59434-4](https://zenodo.org/badge/DOI/10.1038/s41598-024-59434-4.svg)](https://doi.org/10.1038/s41598-024-59434-4)
 
 ## Context
 The Necker Cube (NC) Paradigm is a bistable perception task that can be used to assess perceptual inference processing under conditions of maximized ambiguity. During the task, participants are presented with a 2-dimensional projection of the NC intermittently displayed on the screen. At each trial, participants are asked to report their subjective 3-dimensional interpretation of the cube, either seen from above (SFA) or seen from below (SFB).
