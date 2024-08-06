@@ -1,5 +1,5 @@
 ## About the Necker Cube experiment
-PsychoPy version of the Necker Cube task as used in Leclercq et al. Scientific Reports, 2024. Tested on PsychoPy 2023.2.3
+PsychoPy version of the Necker Cube task as used in Leclercq et al. _Scientific Reports_, 2024. Tested on PsychoPy 2023.2.3
 
 [![DOI:10.1038/s41598-024-59434-4](https://zenodo.org/badge/DOI/10.1038/s41598-024-59434-4.svg)](https://doi.org/10.1038/s41598-024-59434-4)
 
